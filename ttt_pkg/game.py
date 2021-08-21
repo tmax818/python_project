@@ -1,5 +1,5 @@
 
-board = None
+board = [" ", " "]
 
 
 def display_board(board):
@@ -15,4 +15,5 @@ def check_winner():
 
 
 def won():
+    pass
     pass
