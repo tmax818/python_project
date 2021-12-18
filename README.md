@@ -4,6 +4,8 @@
 
 ### Portfolio Project: Game Algorithm
 
+- this is my game
+
 ```python
 # display menu
 ## menu player select X or O
